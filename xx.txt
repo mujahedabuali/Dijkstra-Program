@@ -1,0 +1,187 @@
+58,127
+AL-Shati Camp,31.542297063594603, 34.45069769424554,FALSE
+Abasan Al-kabera,31.327529860597856, 34.35239980801006,FALSE
+Abasan Al-kabera entrance,31.322354824209302, 34.339885798880886,TRUE
+Al Ma'ani,31.38776651949603, 34.35897486417523,FALSE
+Al Mawasi,31.347349947264, 34.254940890774826,FALSE
+Al Mughraqa,31.468661128009536, 34.41569054587059,FALSE
+Al Toam cross,31.54502876913482, 34.472128747827256,TRUE
+Al Toam,31.55201782934231, 34.48091893021882,FALSE
+Al-Breij,31.432864541412016, 34.40367305575443,FALSE
+Al-Fakhari,31.30041606025281, 34.32654457775958,FALSE
+Al-Fakhari entrance,31.3011927729518, 34.317495836842504,TRUE
+Al-Fakhari Street,31.2806761156132, 34.30814123814002,TRUE
+ALQuba entrance,31.486235113649638, 34.45095069982212,TRUE
+Al Qarya,31.329302421152104, 34.22712685769205,FALSE
+Al-Qarara,31.369286045888796, 34.34694763129665,FALSE
+Al-Qarara main Street,31.37772449481005, 34.33720724006752,TRUE
+AlQuba,31.4786,34.4658,FALSE
+AlRashed Main Street,31.547067052719147, 34.455629454827175,TRUE
+AlSheikh Naseer,31.3374,34.3095,TRUE
+Az Zawayda entrance,31.42861848570567, 34.36897209998541,TRUE
+Az Zawayda main Street,31.428951511541232, 34.380550553014686,TRUE
+Az Zawayda shati Cross,31.43883946165748, 34.353087754858244,TRUE
+Az Zawayda,31.430722768556215, 34.364797336109845,FALSE
+Bani Shila,31.342645933491642, 34.32556789960881,FALSE
+Bani Shila Street,31.35668704067035, 34.32830525977381,TRUE
+Bani Shila entrance,31.343937421628507, 34.31541919889888,TRUE
+Beit Hanoun entrance,31.536613161692543, 34.52479746828105,TRUE
+Beit Hanoun,31.53615399717234, 34.54122875310544,FALSE
+Beit Lahya back Street,31.556099544704914, 34.49394753817419,TRUE
+Beit Lahya cross,31.529036658361132, 34.51887143113127,TRUE
+Beit Lahya,31.55270980354261,34.50575677206923,FALSE
+Breij main Street,31.443381494902745, 34.39954442066024,TRUE
+Der Albalah main Street,31.40951730932429, 34.36133966012611,TRUE
+Der Albalah shati Cross,31.42556721217303, 34.33895325637646,TRUE
+Der Albalah,31.41833698655828,34.35025778910464,FALSE
+Gaza Shati cross,31.526338266830493, 34.43641046788476,TRUE
+Gaza entrance,31.500686257127786, 34.470215824256925,TRUE
+Gaza,31.50914194664061,34.45764766318593,FALSE
+Jaber,31.6,34.5,FALSE
+Jabalia Cross,31.521229921097056, 34.49866903175701,TRUE
+Jabalia back entrance,31.539815733319227, 34.48606256629413,TRUE
+Jabalia,31.530212822376274,34.48095604887734,FALSE
+Johur Al-Diek,31.45786950394461, 34.4389379889073,FALSE
+Khan Younes,31.344614194488816, 34.30289143300088,FALSE
+Khan Younes entrance,31.37114330036097, 34.33285658645508,TRUE
+Khuza'a,31.3066,34.3587,FALSE
+Mughraqa main Street,31.463417707390324, 34.42641262346061,TRUE
+Nserat,31.4496,34.3893,FALSE
+Rafah Shati Street,31.303646081607667, 34.232799589902996,TRUE
+Rafah,31.293676727918736, 34.241564062300654,FALSE
+Rafah cross,31.26845015703474, 34.28627085445548,TRUE
+Rafah entrance,31.283309531659274, 34.25688988394358,TRUE
+Um Al-Naser,31.5570,34.5200,FALSE
+Um Dhear main Street,31.396623821377318, 34.35103997722295,TRUE
+Um Dhear,31.3991,34.3400,FALSE
+Um Naser Main Street,31.546714209791098, 34.53072350543083,TRUE
+Um Naser entrance,31.549054045496764, 34.52138704661069,TRUE
+Abasan Al-kabera entrance,Abasan Al-kabera
+Abasan Al-kabera entrance,Khuza'a
+Abasan Al-kabera entrance,Bani Shila entrance
+Abasan Al-kabera,Abasan Al-kabera entrance
+Al-Fakhari entrance,Al-Fakhari
+Al-Fakhari entrance,AlSheikh Naseer
+Al-Fakhari entrance,Al-Fakhari Street
+Al-Fakhari Street,Al-Fakhari entrance
+Al-Fakhari Street,Rafah cross
+Al-Fakhari,Al-Fakhari entrance
+AL-Shati Camp,AlRashed Main Street
+AL-Shati Camp,Gaza Shati cross
+ALQuba entrance,AlQuba
+ALQuba entrance,Gaza entrance
+ALQuba entrance,Mughraqa main Street
+Al Qarya,Rafah Shati Street
+Al Qarya,Al Mawasi
+Al-Qarara,Al-Qarara main Street
+Al-Qarara main Street,Al-Qarara
+Al-Qarara main Street,Um Dhear main Street
+Al-Qarara main Street,Khan Younes entrance
+AlQuba,ALQuba entrance
+Al Ma'ani,Um Dhear main Street
+Al Mawasi,Al Qarya
+Al Mawasi,Der Albalah shati Cross
+Al Mughraqa,Mughraqa main Street
+Al Toam cross,Al Toam
+Al Toam cross,AlRashed Main Street
+Al Toam cross,Jabalia
+Al Toam,Al Toam cross
+Al Toam,Beit Lahya back Street
+Al-Breij,Breij main Street
+AlSheikh Naseer,Bani Shila entrance
+AlSheikh Naseer,Khan Younes
+AlSheikh Naseer,Al-Fakhari entrance
+AlRashed Main Street,AL-Shati Camp
+AlRashed Main Street,Al Toam cross
+Az Zawayda entrance,Az Zawayda
+Az Zawayda entrance,Az Zawayda main Street
+Az Zawayda main Street,Az Zawayda entrance
+Az Zawayda main Street,Breij main Street
+Az Zawayda main Street,Der Albalah main Street
+Az Zawayda shati Cross,Az Zawayda
+Az Zawayda shati Cross,Der Albalah shati Cross
+Az Zawayda shati Cross,Gaza Shati cross
+Az Zawayda,Az Zawayda main Street
+Bani Shila Street,Khan Younes entrance
+Bani Shila Street,Bani Shila entrance
+Bani Shila entrance,Bani Shila Street
+Bani Shila entrance,Bani Shila
+Bani Shila entrance,AlSheikh Naseer
+Bani Shila entrance,Abasan Al-kabera entrance
+Bani Shila,Bani Shila entrance
+Beit Hanoun entrance,Beit Hanoun
+Beit Hanoun entrance,Beit Lahya cross
+Beit Hanoun entrance,Um Naser Main Street
+Beit Hanoun,Beit Hanoun entrance
+Beit Lahya back Street,Al Toam
+Beit Lahya back Street,Beit Lahya
+Beit Lahya cross,Beit Hanoun entrance
+Beit Lahya cross,Beit Lahya
+Beit Lahya cross,Jabalia Cross
+Beit Lahya,Beit Lahya back Street
+Beit Lahya,Jabalia back entrance
+Beit Lahya,Um Naser entrance
+Breij main Street,Al-Breij
+Breij main Street,Az Zawayda main Street
+Breij main Street,Mughraqa main Street
+Breij main Street,Nserat
+Der Albalah main Street,Az Zawayda main Street
+Der Albalah main Street,Der Albalah
+Der Albalah main Street,Um Dhear main Street
+Der Albalah shati Cross,Al Mawasi
+Der Albalah shati Cross,Az Zawayda shati Cross
+Der Albalah shati Cross,Der Albalah
+Der Albalah,Der Albalah main Street
+Der Albalah,Der Albalah shati Cross
+Gaza Shati cross,AL-Shati Camp
+Gaza Shati cross,Az Zawayda shati Cross
+Gaza Shati cross,Gaza
+Gaza entrance,ALQuba entrance
+Gaza entrance,Gaza
+Gaza entrance,Jabalia Cross
+Gaza,Gaza Shati cross
+Gaza,Gaza entrance
+Gaza,Jabalia
+Jabalia Cross,Beit Lahya cross
+Jabalia Cross,Gaza entrance
+Jabalia Cross,Jabalia
+Jabalia,AlRashed Main Street
+Jabalia,Gaza
+Jabalia,Jabalia Cross
+Jabalia,Jabalia back entrance
+Johur Al-Diek,Mughraqa main Street
+Khan Younes,Rafah entrance
+Khan Younes,AlSheikh Naseer
+Khan Younes,Khan Younes entrance
+Khan Younes entrance,Bani Shila Street
+Khan Younes entrance,Khan Younes
+Khan Younes entrance,Al-Qarara main Street
+Khuza'a,Abasan Al-kabera entrance
+Mughraqa main Street,ALQuba entrance
+Mughraqa main Street,Al Mughraqa
+Mughraqa main Street,Breij main Street
+Mughraqa main Street,Johur Al-Diek
+Nserat,Breij main Street
+Rafah Shati Street,Al Qarya
+Rafah Shati Street,Rafah
+Rafah,Rafah Shati Street
+Rafah,Rafah entrance
+Rafah cross,Al-Fakhari Street
+Rafah cross,Rafah entrance
+Rafah entrance,Rafah cross
+Rafah entrance,Khan Younes
+Rafah entrance,Rafah
+Um Al-Naser,Um Naser entrance
+Um Dhear main Street,Al Ma'ani
+Um Dhear main Street,Der Albalah main Street
+Um Dhear main Street,Um Dhear
+Um Dhear main Street,Al-Qarara main Street
+Um Dhear,Um Dhear main Street
+Um Naser Main Street,Beit Hanoun entrance
+Um Naser Main Street,Um Naser entrance
+Um Naser entrance,Beit Lahya
+Um Naser entrance,Um Al-Naser
+Um Naser entrance,Um Naser Main Street
+Jaber,Khan Younes
+
+
